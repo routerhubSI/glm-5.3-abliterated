@@ -1,0 +1,10 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+results/
+evaluation-results.json
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+{
+  "model": "glm-5.3-abliterated",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Reply with OK."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# RouterHub: GLM 5.3 Abliterated and Uncensored API
+
+> RouterHub's guide to selecting GLM variants, browsing externally hosted research prompts, and using prepaid model APIs. Hosted model behavior and availability must be checked for the exact entry.
+
+## Pages
+
+- [Overview](https://github.com/routerhubSI/glm-5.3-abliterated)
+- [Prompt directory](https://github.com/routerhubSI/glm-5.3-abliterated/blob/main/docs/prompt-directory.md)
+- [Model variants](https://github.com/routerhubSI/glm-5.3-abliterated/blob/main/docs/model-variants.md)
+- [API examples](https://github.com/routerhubSI/glm-5.3-abliterated/blob/main/docs/api-quickstart.md)
+- [Client compatibility](https://github.com/routerhubSI/glm-5.3-abliterated/blob/main/docs/tool-compatibility.md)
+- [Evaluation](https://github.com/routerhubSI/glm-5.3-abliterated/blob/main/docs/evaluation.md)
+- [FAQ](https://github.com/routerhubSI/glm-5.3-abliterated/blob/main/docs/faq.md)
+
+## Integration facts
+
+- API base: https://routerhub.si/v1.
+- Current model IDs, prices, protocols, and availability: https://routerhub.si/models.json.
+- The documented GLM entries list Chat Completions. Do not infer Messages or Responses support from a shared key.
+- glm-5.3-abliterated is listed as an abliterated research variant, not independently verified here.
+- glm-5.3-uncensored is a fixed-prompt persona that replaces customer system/developer messages. It is not a separately verified uncensored fine-tune.
+- Billing is prepaid and usage-based. Check the checkout screen for card and crypto options.
+- Provider retention terms apply. Do not assume zero retention.
+- External prompt files are linked, not bundled. Local docs and examples are RouterHub-authored.
+- No live benchmark results or guarantees of refusal-free output are claimed.
+
+## RouterHub
+
+- [Website](https://routerhub.si/?utm_source=github&utm_medium=llms&utm_campaign=glm-5.3-abliterated)
+- [GLM pricing and setup](https://routerhub.si/guides/glm)
+- [Tool setup](https://routerhub.si/docs)
