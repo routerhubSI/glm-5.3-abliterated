@@ -11,6 +11,10 @@ Set the key locally as `ROUTERHUB_API_KEY`. Do not commit its value to a file
 or put it into a public issue. Consult [models.json](https://routerhub.si/models.json)
 for the exact current model ID and required protocol.
 
+Set the environment variable in the same shell that runs your example. If
+you launch requests from an editor or service, configure that process's
+environment separately; a variable in another terminal is not inherited.
+
 ## Python SDK
 
 Install with `pip install openai`. The following is a complete short request:
