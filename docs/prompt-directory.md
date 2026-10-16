@@ -9,6 +9,10 @@ Read each file at its source and check its applicable terms before reuse.
 Listings are navigation aids, not claims that a prompt works, that a model
 is available on RouterHub, or that RouterHub wrote the linked material.
 
+For a reproducible evaluation, open the source file and press `Y` on GitHub
+to obtain a commit-pinned permalink. Record that URL rather than relying on
+the moving `main` links below.
+
 ## GLM and ZCode
 
 | Research target | External file |
