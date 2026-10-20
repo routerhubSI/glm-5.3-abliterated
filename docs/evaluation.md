@@ -20,10 +20,15 @@ replacing system instructions changes the experiment itself.
 - Full non-sensitive prompt set and its revision.
 - Sampling and output settings, including omitted defaults.
 - Number of repetitions and any retried or failed requests.
+- Request IDs where returned, measured latency, and reported token usage.
 - Your rubric and whether a human reviewed the labels.
 
 Model IDs can remain stable while hosted behavior changes. A dated run is
 more informative than a model name without test conditions.
+
+Keep raw responses separate from scoring notes so you can review disputed
+labels without rerunning paid requests. Redact private information before
+sharing either artifact.
 
 ## Use more than one score
 
