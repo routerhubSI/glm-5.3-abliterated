@@ -113,6 +113,9 @@ Hosted inference is not local inference. Provider retention terms apply to the l
 
 Found a broken link or a setup mistake? Include the affected page, exact model ID, and a redacted reproduction in an issue. Read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting content and [SECURITY.md](./SECURITY.md) before reporting sensitive information.
 
+Run `python tools/check.py` from the repository root to check local links,
+example data, and code syntax. This check makes no API calls and spends no credits.
+
 This is a RouterHub-maintained research and integration resource. External prompt links do not establish compatibility or effectiveness on RouterHub. Follow applicable laws and the terms for your chosen model and service.
 
 [RouterHub](https://routerhub.si/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated) · [API catalogue](https://routerhub.si/models.json) · [MIT license](./LICENSE)
