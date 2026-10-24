@@ -18,11 +18,11 @@
 
 Searching for a **GLM 5.3 uncensored AI model**, a **GLM 5.3 abliterated model**, or a **GLM 5.3 no-refusal model**? Learn what each label tells you, choose an API ID, and evaluate the behavior you actually need. The gateway offers OpenAI-compatible Chat Completions for GLM and Anthropic-compatible Messages for supported Claude entries.
 
-[![Model](https://img.shields.io/badge/model-GLM%205.3-a9ff6b?style=flat)](#what-is-glm-53)
-[![Prompts](https://img.shields.io/badge/research%20prompts-35-a9ff6b?style=flat)](#glm-53-jailbreak-collection-35-prompts)
-[![Variants](https://img.shields.io/badge/variants-abliterated%20%C2%B7%20uncensored-a9ff6b?style=flat)](#abliterated-vs-uncensored)
-[![API](https://img.shields.io/badge/API-OpenAI%20%2B%20Anthropic-0ea5e9?style=flat)](#quickstart)
-[![Billing](https://img.shields.io/badge/billing-pay%20per%20token-a9ff6b?style=flat)](#pricing-and-access)
+[![Model](./assets/badge-model.svg)](#what-is-glm-53)
+[![Prompts](./assets/badge-prompts.svg)](#glm-53-jailbreak-collection-35-prompts)
+[![Variants](./assets/badge-variants.svg)](#abliterated-vs-uncensored)
+[![API](./assets/badge-api.svg)](#quickstart)
+[![Billing](./assets/badge-billing.svg)](#pricing-and-access)
 
 [**Get an API key →**](https://routerhub.si/register?next=onboarding&utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated) · [Quickstart](#quickstart) · [Docs](#documentation) · [Telegram](https://t.me/routerhubsi)
 

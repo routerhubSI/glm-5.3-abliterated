@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="20" viewBox="0 0 153 20" role="img" aria-labelledby="title">
+  <title id="title">Billing: pay per token</title>
+  <rect width="153" height="20" rx="3" fill="#213b2b"/>
+  <path d="M42 0h108a3 3 0 0 1 3 3v14a3 3 0 0 1-3 3H42Z" fill="#a9ff6b"/>
+  <g font-family="Verdana,Arial,sans-serif" font-size="10.5" text-anchor="middle">
+    <text x="21" y="14" fill="#eef5ec">billing</text>
+    <text x="97.5" y="14" fill="#102016">pay per token</text>
+  </g>
+</svg>
