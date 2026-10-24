@@ -27,10 +27,10 @@ or Responses. Match your client to the entry's supported protocol using the
 
 ## Are the prompt files copied into this repository?
 
-No. The [prompt directory](./prompt-directory.md) links to externally hosted
-community files. They retain their own terms and can change independently.
-The small [local evaluation sample](../examples/benign-eval-prompts.json) is
-separate, original RouterHub material.
+Yes. The [prompt directory](./prompt-directory.md) indexes the 35 files bundled
+in [jailbreaks/](../jailbreaks/). The small
+[local evaluation sample](../examples/benign-eval-prompts.json) is separate,
+original RouterHub material.
 
 ## How is model usage paid for?
 

@@ -1,6 +1,6 @@
 # RouterHub: GLM 5.3 Abliterated or Uncensored — Jailbreak Prompts and API Access
 
-> RouterHub's original guide to GLM 5.3 abliterated and uncensored models, 35 community research prompt links, compatible API clients, evaluation, and prepaid token pricing.
+> RouterHub's original guide to GLM 5.3 abliterated and uncensored models, 35 bundled research prompt files, compatible API clients, evaluation, and prepaid token pricing.
 
 ## Pages
 
@@ -31,7 +31,7 @@
 - glm-5.3-uncensored is a fixed-prompt persona that replaces customer system/developer messages. It is not a separately verified uncensored fine-tune.
 - Billing is prepaid and usage-based. Check the checkout screen for card and crypto options.
 - Provider retention terms apply. Do not assume zero retention.
-- External prompt files are linked, not bundled. Local docs and examples are RouterHub-authored.
+- The 35 prompt files are bundled in jailbreaks/. Local docs and examples are RouterHub-authored.
 - No live benchmark results or guarantees of refusal-free output are claimed.
 
 ## RouterHub

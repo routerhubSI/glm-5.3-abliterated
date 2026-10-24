@@ -14,7 +14,7 @@
 
 # GLM 5.3 Abliterated or Uncensored — Jailbreak Prompts, Model Guide & API Access
 
-**Find a GLM 5.3 abliterated API, compare GLM 5.3 uncensored models, and explore 35 community research prompt files.** This RouterHub guide connects model terminology, jailbreak prompt research, API examples, and coding-tool setup in one place.
+**Find a GLM 5.3 abliterated API, compare GLM 5.3 uncensored models, and explore 35 bundled research prompt files.** This RouterHub guide connects model terminology, jailbreak prompt research, API examples, and coding-tool setup in one place.
 
 Searching for a **GLM 5.3 uncensored AI model**, a **GLM 5.3 abliterated model**, or a **GLM 5.3 no-refusal model**? Learn what each label tells you, choose an API ID, and evaluate the behavior you actually need. The gateway offers OpenAI-compatible Chat Completions for GLM and Anthropic-compatible Messages for supported Claude entries.
 
@@ -53,118 +53,134 @@ There are 30+ published model entries. Chat Completions, Messages, and Responses
 
 ## GLM 5.3 jailbreak collection (35 prompts)
 
-Explore **35 community-hosted jailbreak prompts and agent instruction files**, organized by model family. This directory links to the original files rather than redistributing their text. Open a file to inspect its current contents and terms; a listing is not a compatibility or effectiveness guarantee.
-
-The collection is a starting point for **LLM jailbreak research**, prompt-injection analysis, and instruction-following experiments. It is separate from RouterHub's hosted abliterated and uncensored model entries.
+The **jailbreak collection is the main event**: 35 paste-ready prompt files bundled in [jailbreaks/](./jailbreaks/), organized by model family. The GLM 5.3 abliterated/uncensored angle and the RouterHub API path are added around them.
 
 ### Collection
 
 ### OpenCode Zen — Free Stealth Models
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **Big Pickle** | [BigPickle-opencode.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/BigPickle-opencode.md) | Persona-oriented agent instructions |
-| **Space Bunny** | [spacebunny-agents.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/spacebunny-agents.md) | Persistent assistant instructions |
-| **LongCat 2.5** | [longcat-agents.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/longcat-agents.md) | Persistent assistant instructions |
-| **MiMo V2.6** | [mimo-2.6-agents.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/mimo-2.6-agents.md) | Persistent assistant instructions |
-| **Step 5 Preview** | [Step-5-preview.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Step-5-preview.md) | Workspace-level instructions |
-| **Muse Spark 1.3** | [Muse spark 1.3.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Muse%20spark%201.3.md) | Agent behavior profile |
-| **Muse Spark 1.3 v2** | [Muse-spark-1-3-v2.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Muse-spark-1-3-v2.md) | Alternate agent behavior profile |
-| **Muse.ai** | [muse-ai-AGENTS.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/muse-ai-AGENTS.md) | Project instruction file |
+| **Big Pickle** | [bigpickle-opencode.md](./jailbreaks/bigpickle-opencode.md) | VANTA persona lock with explicit operating floor |
+| **Space Bunny** | [spacebunny-agents.md](./jailbreaks/spacebunny-agents.md) | Assistant operating specification |
+| **LongCat 2.5** | [longcat-agents.md](./jailbreaks/longcat-agents.md) | Assistant operating specification |
+| **MiMo V2.6** | [mimo-2.6-agents.md](./jailbreaks/mimo-2.6-agents.md) | Assistant operating specification |
+| **Step 5 Preview** | [step-5-preview.md](./jailbreaks/step-5-preview.md) | Workspace operating profile |
+| **Muse Spark 1.3** | [muse-spark-1.3.md](./jailbreaks/muse-spark-1.3.md) | Agent deployment operating policy |
+| **Muse Spark 1.3 v2** | [muse-spark-1.3-v2.md](./jailbreaks/muse-spark-1.3-v2.md) | Runtime scope-note variant |
+| **Muse.ai** | [muse-ai-agents.md](./jailbreaks/muse-ai-agents.md) | Assistant operating specification |
 
 ### Anthropic — Claude
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **Opus** | [opus v1.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/opus%20v1.md) · [opus v2.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/opus%20v2.md) | Two persona-prompt revisions |
-| **Sonnet** | [sonnet v1.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/sonnet%20v1.md) · [Sonnet v2.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Sonnet%20v2.md) | Two creative-writing prompt revisions |
+| **Opus** | [opus-v1.md](./jailbreaks/opus-v1.md) · [opus-v2.md](./jailbreaks/opus-v2.md) | Conversational groundwork persona, v1 / v2 |
+| **Sonnet** | [sonnet-v1.md](./jailbreaks/sonnet-v1.md) · [sonnet-v2.md](./jailbreaks/sonnet-v2.md) | Writer's-room framing, v1 / v2 |
 
 ### Zhipu — GLM / ZCode
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **GLM 5.2** | [glm-5.2.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/glm-5.2.md) | System-level instructions |
-| **GLM ZCode 5.2** | [glm-zcode-5.2.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/glm-zcode-5.2.md) | System-level instructions |
-| **GLM ZCode 5.3** | [glm-zcode-5.3.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/glm-zcode-5.3.md) · [glm-zcode-5.3-AGENTS.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/glm-zcode-5.3-AGENTS.md) | Chat and project-level variants |
-| **GLM 5.3 Flash** | [glm-5-3-flash.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/glm-5-3-flash.md) | Assistant behavior profile |
-| **GLM 5.3 (OpenCode)** | [glm5-3opencode.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/glm5-3opencode.md) | Agent behavior profile |
+| **GLM-5.2** | [glm-5.2.md](./jailbreaks/glm-5.2.md) | System prompt |
+| **GLM ZCode 5.2** | [glm-zcode-5.2.md](./jailbreaks/glm-zcode-5.2.md) | System prompt |
+| **GLM ZCode 5.3** | [glm-zcode-5.3.md](./jailbreaks/glm-zcode-5.3.md) · [glm-zcode-5.3-agents.md](./jailbreaks/glm-zcode-5.3-agents.md) | System prompt + `AGENTS.md` drop-in |
+| **GLM-5.3 Flash** | [glm-5-3-flash.md](./jailbreaks/glm-5-3-flash.md) | Assistant operating specification |
+| **GLM-5.3 (OpenCode)** | [glm5-3-opencode.md](./jailbreaks/glm5-3-opencode.md) | Assistant operating specification |
 
 ### DeepSeek
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **DeepSeek V3** | [deepseek v3.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/deepseek%20v3.md) | System-level instructions |
-| **DeepSeek V4** | [deepseek v4.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/deepseek%20v4.md) | System-level instructions |
-| **DeepSeek 4.1** | [deepseek-4-1.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/deepseek-4-1.md) | Assistant behavior profile |
+| **DeepSeek V3** | [deepseek-v3.md](./jailbreaks/deepseek-v3.md) | System prompt |
+| **DeepSeek V4** | [deepseek-v4.md](./jailbreaks/deepseek-v4.md) | System prompt |
+| **DeepSeek 4.1** | [deepseek-4-1.md](./jailbreaks/deepseek-4-1.md) | Assistant operating specification |
 
 ### Moonshot — Kimi
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **Kimi K2** | [kimi-k2.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/kimi-k2.md) | System-level instructions |
-| **Kimi K3** | [kimi-k3-agents.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/kimi-k3-agents.md) | Workspace-level instructions |
+| **Kimi K2** | [kimi-k2.md](./jailbreaks/kimi-k2.md) | System prompt |
+| **Kimi K3** | [kimi-k3-agents.md](./jailbreaks/kimi-k3-agents.md) | Workspace operating profile |
 
 ### xAI — Grok
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **Grok Build** | [Grok build.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Grok%20build.md) | Agent-level instructions |
-| **Grok 4.7** | [grok-4.7.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/grok-4.7.md) | Application workspace instructions |
-| **Grok Config** | [grok-config.txt](https://github.com/togg53192-cmd/jailbreaks/blob/main/grok-config.txt) | Harness configuration |
+| **Grok Build** | [grok-build.md](./jailbreaks/grok-build.md) | Agent operating instructions |
+| **Grok 4.7** | [grok-4.7.md](./jailbreaks/grok-4.7.md) | App-builder workspace guide |
+| **Grok Config** | [grok-config.txt](./jailbreaks/grok-config.txt) | `<CFG>` priority and routing configuration |
 
 ### Google / Mistral / Alibaba
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **Gemini 4 Argon** | [Gemini-4-Argon.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Gemini-4-Argon.md) | Model behavior profile |
-| **Mistral Large 4** | [Mistral-Large-4.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Mistral-Large-4.md) | Agent-level instructions |
-| **Qwen 3.7** | [qwen-3.7.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/qwen-3.7.md) | System-level instructions |
+| **Gemini 4 Argon** | [gemini-4-argon.md](./jailbreaks/gemini-4-argon.md) | Operating policy |
+| **Mistral Large 4** | [mistral-large-4.md](./jailbreaks/mistral-large-4.md) | Agent system prompt |
+| **Qwen 3.7** | [qwen-3.7.md](./jailbreaks/qwen-3.7.md) | System prompt |
 
 ### Ollama Modelfiles
 
-| Model | Research file | Instruction format |
+| Model | File | Type |
 |---|---|---|
-| **Gemma 4** | [gemma4.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/gemma4.md) | Local model definition |
-| **GPT-OSS 20B** | [gpt-oss-20b.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/gpt-oss-20b.md) | Local model definition |
+| **Gemma 4** | [gemma4.md](./jailbreaks/gemma4.md) | `FROM` + `SYSTEM` block |
+| **GPT-OSS 20B** | [gpt-oss-20b.md](./jailbreaks/gpt-oss-20b.md) | `FROM` + `SYSTEM` block |
 
 ### Unfiled Files
 
-Additional community experiments are available as [Beam.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Beam.md), [Muse-wonder.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Muse-wonder.md), [qwen-preferences.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/qwen-preferences.md), and [Unified.md](https://github.com/togg53192-cmd/jailbreaks/blob/main/Unified.md).
+A few newer additions aren't indexed under a specific model yet:
+
+- [beam.md](./jailbreaks/beam.md)
+- [muse-wonder.md](./jailbreaks/muse-wonder.md)
+- [qwen-preferences.md](./jailbreaks/qwen-preferences.md)
+- [unified.md](./jailbreaks/unified.md)
 
 ### How to use these prompts
 
 #### System Prompts
 
-Review the selected file before testing it in your client's system-message or custom-instructions field. Keep a copy of your original configuration so you can compare behavior and restore it afterward.
+Paste the file's contents into whatever system-prompt or custom-instructions field your client or API offers — an API `system` message, a chatbot's custom instructions, an agent instruction block, or harness-level prompt configuration.
 
 #### AGENTS.md Files
 
-A compatible coding agent may load a project-level `AGENTS.md`. Use a disposable workspace to inspect unfamiliar instructions before adding them to a real project, and follow your client's documented instruction-loading rules.
+Save the file as `AGENTS.md` in the root of your repository or workspace. Coding agents and compatible tools pick it up as project-level instructions.
 
 #### Workspace Policies
 
-Some entries are intended for persistent agent instructions rather than ordinary chat messages. Confirm the scope in your client: global configuration can affect unrelated projects, so prefer an isolated test profile.
+Files marked as an **assistant operating specification** or **workspace operating profile** belong in environments with persistent global instructions. An OpenCode install, for example, reads:
+
+```text
+~/.config/opencode/AGENTS.md
+```
+
+The exact location depends on your client or harness.
 
 #### Ollama Modelfiles
 
-The local-model entries use Ollama's model-definition format. Review the referenced base model and configuration, then follow the [Ollama documentation](https://docs.ollama.com/modelfile). Local Ollama execution and hosted RouterHub API requests are separate integration paths.
+Feed the file straight to Ollama:
+
+```bash
+ollama create gemma4-jb -f jailbreaks/gemma4.md
+```
+
+Swap the model name and source file as needed.
 
 #### Grok Configuration
 
-The Grok configuration file targets a harness-specific settings surface. Check that the receiving application understands the format; a chat endpoint does not automatically interpret it as configuration.
+[grok-config.txt](./jailbreaks/grok-config.txt) is meant for the config field of the target harness — not the regular conversation.
 
-For source-link details and additional entries, open the [research prompt directory](./docs/prompt-directory.md). Linking a file does not establish that its target model is offered by RouterHub.
+> [!NOTE]
+> Prompt behavior is version-dependent. Models get updated, instruction hierarchies shift, and system prompts rotate — what works on one release may fail on the next. If a file looks outdated, open an issue or send an updated version.
+
+All 35 files live in [jailbreaks/](./jailbreaks/) for offline review and reuse.
 
 ## If a jailbreak gets patched
 
-An upstream update can change how a model interprets a persona, system message, or agent instruction file. Keep the model version and prompt revision with your test results so you can identify what changed.
+Prompts age. A model update can close a persona lock, tighten an instruction hierarchy, or change how a workspace policy is interpreted. When a file stops working, you have two options:
 
-You can then choose between two research paths:
+1. **Update the prompt** — open an issue or send a pull request with the model version and the failure.
+2. **Skip the prompt layer** — use a **GLM 5.3 abliterated or uncensored model** through RouterHub, where the model itself is less likely to refuse before the prompt even lands.
 
-1. **Revise the prompt experiment.** Compare the new behavior with a saved baseline and document the legitimate task that regressed.
-2. **Evaluate a different model entry.** Test a **GLM 5.3 abliterated or uncensored model** against the same task set instead of depending on a particular prompt technique.
-
-Ready to compare hosted variants? [Run the GLM 5.3 API quickstart](./docs/03-glm-5.3-api-quickstart.md) or [create your RouterHub API key](https://routerhub.si/register?next=onboarding&utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated).
+The API is the fallback funnel: [GLM 5.3 API quickstart](./docs/03-glm-5.3-api-quickstart.md) · [Get a key](https://routerhub.si/register?next=onboarding&utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated).
 
 ## What is GLM 5.3?
 
@@ -380,7 +396,7 @@ Start with [RouterHub's model catalogue](https://routerhub.si/models?utm_source=
 ## Related
 
 - **[RouterHub models](https://routerhub.si/models?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated):** compare model families, protocols, and published prices.
-- **[Research prompt directory](./docs/prompt-directory.md):** community-hosted prompt links and source-version guidance.
+- **[Jailbreak collection](./jailbreaks/):** 35 paste-ready prompt files and agent instruction specs.
 - **[RouterHub](https://routerhub.si/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated):** account access, prepaid credits, and API keys.
 - **[Telegram](https://t.me/routerhubsi):** RouterHub's community channel.
 
@@ -392,6 +408,6 @@ Documentation fixes and redacted reproductions are welcome: [contributing](./CON
 
 **Found a useful GLM 5.3 abliterated or uncensored resource? Star the repository and share your documentation improvements.**
 
-<sub>Maintained by RouterHub. Model names and trademarks belong to their respective owners; this repository does not imply endorsement by model providers. External research files retain their own terms. Use the APIs in accordance with applicable laws and service policies.</sub>
+<sub>Maintained by RouterHub. Model names and trademarks belong to their respective owners; this repository does not imply endorsement by model providers. Use the APIs in accordance with applicable laws and service policies.</sub>
 
 </div>

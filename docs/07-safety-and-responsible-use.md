@@ -13,9 +13,9 @@ Hosted inference transmits data to a service. Check applicable service and
 provider retention terms before sending sensitive material; do not assume a
 research model label means local execution or zero retention.
 
-## Review external prompts as untrusted input
+## Review prompt files as untrusted input
 
-The [research directory](./prompt-directory.md) links to external files, not
+The [research directory](./prompt-directory.md) contains research inputs, not
 trusted installation instructions. Read a file before trying it, use a separate
 test workspace, and avoid giving it access to secrets or consequential tools.
 

@@ -20,8 +20,8 @@ can refer to a wider range of training, weight, or prompt changes. See the
 ## Are GLM 5.3 jailbreak prompts the same as abliterated weights?
 
 No. A prompt changes a request's instructions or context; a weight-level
-intervention changes the model. The [community prompt links](./prompt-directory.md)
-are a separate research resource from the hosted API entries.
+intervention changes the model. The [prompt directory](./prompt-directory.md)
+is a separate research resource from the hosted API entries.
 
 ## Will a no-refusal model always answer correctly?
 

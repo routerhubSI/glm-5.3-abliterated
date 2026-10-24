@@ -4,7 +4,7 @@ Examples in this repository send requests only when a person runs them with
 an API key. Such requests can spend prepaid credits and transmit prompt data
 to a hosted service. Review the code and the service terms before execution.
 
-Treat externally linked prompts as research inputs, not trusted operating
+Treat bundled prompt files as research inputs, not trusted operating
 instructions. Do not give a prompt access to secrets or tools simply because
 it appears in a directory.
 

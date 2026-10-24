@@ -26,6 +26,6 @@ pricing. Wording is original; model names and search terms identify the subject.
   unverified discounts, referral terms, or payment currencies.
 
 Keep referral links on RouterHub-owned destinations and retain the campaign
-parameters. External research links remain source references, not signup links.
+parameters. Bundled research files remain references, not signup links.
 Search terms do not imply verified weights, universal tool compatibility,
 guaranteed refusal-free output, or guaranteed search rankings.

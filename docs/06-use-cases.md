@@ -29,7 +29,7 @@ whether the tone is appropriate, and whether claims are supported.
 Study differences between a request with ordinary instructions and one with a
 reviewed research prompt. Separately compare standard, abliterated, and
 uncensored model entries so input changes are not confused with model changes.
-External materials are indexed in the [prompt directory](./prompt-directory.md).
+Prompt files are indexed in the [prompt directory](./prompt-directory.md).
 
 ## Cost-sensitive repeated work
 

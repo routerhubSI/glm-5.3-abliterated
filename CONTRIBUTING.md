@@ -12,8 +12,7 @@ sample count, and scoring method. Label opinion separately from measurements.
 Do not present a catalogue listing as independent verification of model weights.
 
 Submit only content you wrote or have permission to contribute. Contributions
-to this repository are offered under its MIT license. Linking to an external
-resource does not relicense that resource or copy it into this project.
+to this repository are offered under its MIT license.
 
 Check local files with `python tools/check.py` before opening a pull request.
 This check does not contact model APIs or spend credits.

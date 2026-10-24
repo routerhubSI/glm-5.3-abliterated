@@ -18,7 +18,7 @@ The API examples use paid hosted inference; local documentation checks do not.
 
 ## Supporting references
 
-- [Community prompt directory](./prompt-directory.md)
+- [Jailbreak prompt directory](./prompt-directory.md)
 - [Python, JavaScript, cURL, and streaming examples](./api-quickstart.md)
 - [Implementation notes](./model-variants.md)
 - [Client compatibility details](./tool-compatibility.md)

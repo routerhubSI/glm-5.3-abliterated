@@ -34,7 +34,7 @@ api-gateway
 pay-per-token
 ```
 
-External prompts are linked rather than hosted. Do not advertise them as
+The 35 prompt files are bundled in `jailbreaks/`. Do not advertise them as
 RouterHub-authored files or claim measured effectiveness without a real test.
 The supplied README banner is `assets/routerhub-banner.png`; keep it intact.
 
