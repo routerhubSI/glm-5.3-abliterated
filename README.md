@@ -4,9 +4,9 @@
   <img src="./assets/routerhub-banner.png" width="100%" alt="RouterHub — One key. All your models.">
 </a>
 
-<p>
+<p align="center">
   <a href="https://routerhub.si/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=glm-5.3-abliterated"><img src="./assets/visit-website.svg" width="208" height="74" alt="Visit RouterHub website"></a>
-  <a href="https://t.me/routerhubsi"><img src="./assets/telegram-channel.svg" width="216" height="74" alt="Join the RouterHub Telegram channel"></a>
+  <a href="https://t.me/routerhubsi"><img src="./assets/telegram-channel.svg?v=centered" width="216" height="74" alt="Join RouterHub on Telegram"></a>
   <a href="https://routerhub.si/register?next=onboarding&amp;utm_source=github&amp;utm_medium=readme&amp;utm_campaign=glm-5.3-abliterated"><img src="./assets/get-api-key.svg" width="183" height="74" alt="Get a RouterHub API key"></a>
 </p>
 
