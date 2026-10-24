@@ -2,5 +2,5 @@
   <title id="title">Join the RouterHub Telegram channel</title>
   <rect x="1" y="9" width="214" height="56" rx="16" fill="#13251b" stroke="#668d4f"/>
   <path d="m20 36 20-8-5 18-7-6-4 4 1-7 11-6-8 9" fill="none" stroke="#a9ff6b" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="50" y="43" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#eef5ec">Telegram</text>
+  <text x="132" y="43" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#eef5ec">Telegram</text>
 </svg>
