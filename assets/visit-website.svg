@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="74" viewBox="0 0 208 74" role="img" aria-labelledby="title">
+  <title id="title">Visit RouterHub website</title>
+  <rect x="1" y="9" width="206" height="56" rx="16" fill="#a9ff6b" stroke="#a9ff6b"/>
+  <circle cx="29" cy="37" r="9" fill="none" stroke="#102016" stroke-width="1.8"/>
+  <path d="M20 37h18M29 28c-6 5-6 13 0 18M29 28c6 5 6 13 0 18" fill="none" stroke="#102016" stroke-width="1.5"/>
+  <text x="51" y="43" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#102016">Visit website</text>
+</svg>

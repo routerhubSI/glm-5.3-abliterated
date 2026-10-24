@@ -7,7 +7,7 @@
 
 ## Description
 
-GLM 5.3 abliterated and uncensored API guide by RouterHub. Research prompt directory, model IDs, Python and Node.js examples, prepaid pricing, and evaluation guidance.
+GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.
 
 ## Topics
 

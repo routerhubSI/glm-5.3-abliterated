@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="183" height="74" viewBox="0 0 183 74" role="img" aria-labelledby="title">
+  <title id="title">Get a RouterHub API key</title>
+  <rect x="1" y="9" width="181" height="56" rx="16" fill="#a9ff6b" stroke="#a9ff6b"/>
+  <circle cx="26" cy="35" r="5" fill="none" stroke="#102016" stroke-width="2"/>
+  <path d="m30 39 8 8m-3-3 3-3" fill="none" stroke="#102016" stroke-width="2" stroke-linecap="round"/>
+  <text x="48" y="43" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#102016">Get API key</text>
+</svg>
